@@ -1,0 +1,11 @@
+{
+  "name": "modernskeleton",
+  "version": "0.0.1",
+  "description": "Skeleton for modern single page applications written on vanilla js, html, css on client and nodejs rest backend with optimizations for minimal requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Zaharov",
+  "license": "MIT"
+}
